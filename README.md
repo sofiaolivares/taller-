@@ -35,3 +35,4 @@ liberara estrés a través de la ira (salas de ira)
 ![texto](./img/destroza este diario.jpg)
 
 
+
