@@ -32,7 +32,7 @@ Casos o estudios con respecto a salud menta
 https://repositoriobibliotecas.uv.cl/serveruv/api/core/bitstreams/f8ad5b78-cb35-4d5c-b739-cdbeca9b3728/contentl    
 liberara estrés a través de la ira (salas de ira)
 
-![texto](./img/destroza este diario.jpg)
+
 
 
 
