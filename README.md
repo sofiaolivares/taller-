@@ -33,7 +33,7 @@ es un espacio donde las personas pueden liberar emociones acumuladas, como el es
 ![](juego.jpg)
 Es juego que permite meir el nivel de fuerza, mediante un golpe. 
 
-![](juego2.jpg)
+![](juego2.jpeg)
 Mide la fuerza de manera más gráfica, también con un golpe, pero con un martillo de caucho a un botón ubicado en la intalación
 
 ![](pushingball.jpg)
