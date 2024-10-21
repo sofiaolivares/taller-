@@ -18,7 +18,7 @@ En una sala de Salvador Sanfuentes que permita poner la instalación física
 Se utilizarán preguntas de situaciones espécificas que ocurren en el entorno académico, como detonantes y el usuario debe responder a través 
 del golpe a el pushingball el cual medirá la fuerza a través de un sensor, mientras más alto sea el rango, más alto es el estrés que 
 esta situación provoca. Las respuestas se irán almacenando como información graficada en
-pantallas para poder visualizar los datos en tiempo real, además
+pantallas para poder visualizar los datos en tiempo real y brindar información de como abordar estas situaciones.
 
    - ¿Por qué? (Objetivos y justificación del proyecto)
 Para poder visibilizar todo el estrés y desgaste emocional que puede provocar situaciones relacionadas
@@ -26,11 +26,18 @@ a lo académico y poder permitir un espacio de desahogo, además de recopilar in
 útil para la universidad, académico incluso los mismos estudiantes
 
 ## Referentes 
-Situación de estrés académico 
-Casos o estudios con respecto a salud menta
-https://repositoriobibliotecas.uv.cl/serveruv/api/core/bitstreams/f8ad5b78-cb35-4d5c-b739-cdbeca9b3728/contentl    
 liberara estrés a través de la ira (salas de ira) 
-![](rage-room)
+![](rage-room.jpg)
+es un espacio donde las personas pueden liberar emociones acumuladas, como el estrés, rompiendo objetos en un entorno seguro y controlado
+
+![](juego.jpg)
+Es juego que permite meir el nivel de fuerza, mediante un golpe. 
+
+![](juego2.jpg)
+Mide la fuerza de manera más gráfica, también con un golpe, pero con un martillo de caucho a un botón ubicado en la intalación
+
+![](pushingball.jpg)
+referente de una instalación más simple
 
 
 # Propuesta 
