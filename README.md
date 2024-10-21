@@ -26,11 +26,11 @@ a lo académico y poder permitir un espacio de desahogo, además de recopilar in
 útil para la universidad, académico incluso los mismos estudiantes
 
 ## Referentes 
-### conceptuales 
 Situación de estrés académico 
 Casos o estudios con respecto a salud menta
 https://repositoriobibliotecas.uv.cl/serveruv/api/core/bitstreams/f8ad5b78-cb35-4d5c-b739-cdbeca9b3728/contentl    
-liberara estrés a través de la ira (salas de ira)
+liberara estrés a través de la ira (salas de ira) 
+![](rage-room)
 
 
 # Propuesta 
