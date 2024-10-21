@@ -30,13 +30,16 @@ liberara estrés a través de la ira (salas de ira)
 ![](rage-room.jpg)
 es un espacio donde las personas pueden liberar emociones acumuladas, como el estrés, rompiendo objetos en un entorno seguro y controlado
 
+
 ![](juego.jpg)
 Es juego que permite meir el nivel de fuerza, mediante un golpe. 
+
 
 ![](juego2.jpeg)
 Mide la fuerza de manera más gráfica, también con un golpe, pero con un martillo de caucho a un botón ubicado en la intalación
 
-![](pushingball.jpg)
+
+![](pushingball.png)
 referente de una instalación más simple
 
 
