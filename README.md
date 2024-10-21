@@ -28,18 +28,22 @@ a lo académico y poder permitir un espacio de desahogo, además de recopilar in
 ## Referentes 
 liberara estrés a través de la ira (salas de ira) 
 ![](rage-room.jpg)
+
 es un espacio donde las personas pueden liberar emociones acumuladas, como el estrés, rompiendo objetos en un entorno seguro y controlado
 
 
 ![](juego.jpg)
+
 Es juego que permite meir el nivel de fuerza, mediante un golpe. 
 
 
 ![](juego2.jpeg)
+
 Mide la fuerza de manera más gráfica, también con un golpe, pero con un martillo de caucho a un botón ubicado en la intalación
 
 
 ![](pushingball.png)
+
 referente de una instalación más simple
 
 
@@ -89,6 +93,7 @@ Al final del recorrido, una lámina muestra diferentes rangos de estrés:
 -	40-60: Podrías probar algunos ejercicios para aliviar el estrés. Recuerda que no estás solo/a.
 -	60-100: Es importante que recuerdes que siempre es bueno pedir ayuda. No estás solo/a. Escanea el código QR para acceder a consejos y recursos útiles. ¡Un abrazo, eres genial! ❤️
 Esta instalación termina con un recorrido que combina interacción, desahogo y concienciación sobre el estrés académico.
+
 
 
 
