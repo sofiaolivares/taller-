@@ -25,6 +25,10 @@ Para poder visibilizar todo el estrés y desgaste emocional que puede provocar s
 a lo académico y poder permitir un espacio de desahogo, además de recopilar información que puede ser 
 útil para la universidad, académico incluso los mismos estudiantes
 
+- ¿Que hago?
+
+
+
 ## Referentes 
 liberara estrés a través de la ira (salas de ira) 
 ![](rage-room.jpg)
