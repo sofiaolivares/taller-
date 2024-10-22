@@ -14,10 +14,11 @@ Diseño abierto que se realiza en la semana del 15 de diciembre
    - ¿Dónde? (Contexto de uso)
 En una sala de Salvador Sanfuentes que permita poner la instalación física 
 
-   - ¿Por qué? (Objetivos y justificación del proyecto) ¿QUE QUIERO LOGRAR?
+   - ¿Por qué? (Objetivos y justificación del proyecto) ¿QUE QUIERO LOGRAR? 
 visibilizar todo el estrés y desgaste emocional en estudiantes de la ud0p a través  que puede provocar situaciones relacionadas
 a lo académico y poder permitir un espacio de desahogo, además de recopilar información que puede ser 
 útil para la universidad, académico incluso los mismos estudiantes
+apuntes: hacerlo más especificos, decir para que, que uier lograr con esto
 
 - ¿Que hago? 
   Recopilar información sobre las situaciones que más estresan a los estudiantes mediante una experiencia de desahogo
