@@ -14,20 +14,26 @@ Diseño abierto que se realiza en la semana del 15 de diciembre
    - ¿Dónde? (Contexto de uso)
 En una sala de Salvador Sanfuentes que permita poner la instalación física 
 
-   - ¿Cómo? (Metodología y herramientas)
-Se utilizarán preguntas de situaciones espécificas que ocurren en el entorno académico, como detonantes y el usuario debe responder a través 
-del golpe a el pushingball el cual medirá la fuerza a través de un sensor, mientras más alto sea el rango, más alto es el estrés que 
-esta situación provoca. Las respuestas se irán almacenando como información graficada en
-pantallas para poder visualizar los datos en tiempo real y brindar información de como abordar estas situaciones.
-
-   - ¿Por qué? (Objetivos y justificación del proyecto)
-Para poder visibilizar todo el estrés y desgaste emocional que puede provocar situaciones relacionadas
+   - ¿Por qué? (Objetivos y justificación del proyecto) ¿QUE QUIERO LOGRAR?
+visibilizar todo el estrés y desgaste emocional en estudiantes de la ud0p a través  que puede provocar situaciones relacionadas
 a lo académico y poder permitir un espacio de desahogo, además de recopilar información que puede ser 
 útil para la universidad, académico incluso los mismos estudiantes
 
-- ¿Que hago?
+- ¿Que hago? 
+  Recopilar información sobre las situaciones que más estresan a los estudiantes mediante una experiencia de desahogo
 
+ - ¿Cómo lo hago? (Metodología y herramientas)
+Se presentaran situaciones espécificas (estresantes) que ocurren en el entorno académico en una pantalla que serán utilizadas como detonantes y el usuario debe responder según el
+nivel de estrés que le provoque la situación, a través de un golpe a el pushingball (en un tiempo delimitado) el cual medirá la fuerza a través de un sensor de impacto,
+mientras más alto sea el rango, más alto es el estrés que esta situación provoca. Las respuestas se irán almacenando como información graficada en
+pantallas para poder visualizar los datos en tiempo real y brindar información de como abordar estas situaciones.
 
+ideas
+
+- actualizacion de mandar correo: autoridades se manejan con informes
+- app: ue al final recopile la información 
+- entrada poner el pocentaje de personas estresadas en grande 
+- colapsar correos  
 
 ## Referentes 
 liberara estrés a través de la ira (salas de ira) 
@@ -85,12 +91,13 @@ En la pantalla se muestran de manera aleatoria diferentes situaciones de estrés
 -	Tener una pregunta y no hacerla por miedo a ser juzgade.
 El usuario pulsa el botón rojo cuando esté preparado/a para golpear el saco.
 
-### 3. Golpea el punching ball:
+### 3. Golpea el punching ball: 
 La instalación cuenta con un saco de boxeo equipado con un sensor que mide la fuerza de los golpes. Cuanto más fuerte golpee el usuario, mayor será el nivel de estrés que se asocia a la situación presentada en la pantalla. El resultado del golpe se mostrará en una escala de 0 a 100, representado gráficamente en una barra.
 Al final de la actividad, los resultados de todas las situaciones se acumulan. Por ejemplo, si la situación "trabajos en grupo" provoca un estrés promedio del 70%, este porcentaje quedará reflejado en el gráfico, permitiendo comparar el nivel de estrés que esa situación genera en otros estudiantes. Esto ofrece una doble función: visibilizar que no están solos en sus preocupaciones y proporcionar una oportunidad de desahogo y alivio emocional, al liberar un poco de tensión con el golpe
 Conclusión de la experiencia:
 Existirá un código QR en donde exista una página que brinde un espacio en donde compartan tips para abordar las situaciones que se presentaron, además de consejos, información y recursos de fuentes confiables. 
 
+(posibilidad) 
 Al final del recorrido, una lámina muestra diferentes rangos de estrés:
 - 0-20: Abordas muy bien la situación! Si puedes comparte tus consejos a tus compañeres escaneando el código qr
 -	20-40: Lo haces mejor de lo que imaginas, ¡muy bien!
